@@ -5,7 +5,7 @@
   <artifactId>hiring</artifactId>
   <packaging>war</packaging>
   <version>0.1</version>
-  <name>hiring Maven Webapp</name>
+  <name>hiring-Maven-Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
